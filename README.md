@@ -10,5 +10,5 @@ This project demonstrates fundamental Java programming concepts including arrays
 ---
 
 ## 📁 Project Structure
-![project](Screenshot 2025-07-02 212608.png)
+
 
