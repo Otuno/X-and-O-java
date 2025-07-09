@@ -11,4 +11,4 @@ This project demonstrates fundamental Java programming concepts including arrays
 
 ## 📁 Project Structure
 ![Game Screenshot](https://github.com/KasuwaSamuel/X-and-O-java/raw/3fd3eb2aeee4bcbd8e3102b9b521193efdf109bf/Screenshot%202025-07-02%20212608.png)
-
+![Game Screenshot](https://github.com/KasuwaSamuel/X-and-O-java/raw/63e25d21222131e762b12321817472349a1f4d0f/Screenshot%202025-07-02%20212748.png)
